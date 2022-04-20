@@ -1,0 +1,13 @@
+@import '../Variables/Variables.scss';
+
+.gameButton-container {
+    border-radius: 90px;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 15px solid $red;
+    background-color: $backgroundWhite;
+    box-shadow: 0px 5px 5px 0px #000000;
+}

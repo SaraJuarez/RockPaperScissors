@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,eAAe,CAAC;EACZ,gBAAgB,EAFP,OAAe;CAG3B",
+    "sources": [
+        "ScoreSquare.scss"
+    ],
+    "names": [],
+    "file": "ScoreSquare.css"
+}
